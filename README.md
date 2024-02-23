@@ -41,9 +41,3 @@ That's it! The app should now be running on your device/emulator.
 ### Screenshots
 
 <img src='readme/one.png' width='200'/> <img src='readme/two.png' width='200'/> <img src='readme/three.png' width='200'/> <img src='readme/four.png' width='200'/><img src='readme/five.png' width='200'/> <img src='readme/six.png' width='200'/>
-
-**Note:** If you encounter any issues or have suggestions for improvement, please feel free to [create an issue](https://github.com/VaibhavCodeClub/learn/issues/new/choose) on our GitHub repository. We appreciate your feedback!
-
-Made with ❤️ by [sapatevaibhav](https://github.com/sapatevaibhav).
-
-Don't forget to star ⭐ the repository if you find it useful!
